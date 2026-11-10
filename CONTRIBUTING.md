@@ -18,4 +18,5 @@ Abre un issue con el nombre "error" en la que describas:
 - Cómo has llegado al error
 - Lo que debería salir vs lo que sale
 
-Gracias por tu colaboración.
+
+¡Gracias por tu colaboración!
