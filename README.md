@@ -49,7 +49,8 @@ Guia-bases-datos-bioinformatica/
 ├── CONTRIBUTING.md             # Contribution guide for collaborators in English
 ├── LICENSE                     # License
 ├── README.es.md                # README in Spanish
-└── README.md                   # README in English
+├── README.md                   # README in English
+└── TEMPLATE.md                 # Template for contributions
 
 ```
 
