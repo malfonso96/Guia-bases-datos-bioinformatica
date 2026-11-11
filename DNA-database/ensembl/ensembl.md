@@ -13,6 +13,8 @@ Ensembl provides a genome browser that acts as a single point of access to annot
 |---|---|
 | Secondary | Hibrid |
 
+Maintained jointly by the European Bioinformatics Institute (EMBL‑EBI) and the Wellcome Sanger Institute.
+
 ## ⭐ Key features
 
 - Information about genes, transcripts and further annotation can be retrieved at the genome, gene and protein level. 
