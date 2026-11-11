@@ -1,4 +1,4 @@
-# Guía de Contribución
+# 📝 Guía de Contribución
 ¡Bienvenido a la guía de bases de datos bioinformáticos! En este documento encontrarás toda la información para saber cómo participar en este proyecto.
 
 ## 1. Diseño y contenido
