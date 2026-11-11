@@ -8,6 +8,8 @@ Si quieres añadir una nueva base datos a la guía, la información que debes in
 - Qué tipo de base de datos es.
 - Breve resumen de su utilidad o característica por la que destaca.
 
+*Para mantener un formato homogéneo y facilitar la incorporación de nuevas bases de datos al repositorio, se recomienda utilizar la siguiente plantilla como modelo para todas las contribuciones:* [PLANTILLA](./TEMPLATE.md)
+
 ## 2. Sugerencias de funcionalidades
 Abre un issue con el nombre 'mejoras' en la que describas:
 - El problema observado
