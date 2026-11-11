@@ -24,6 +24,11 @@
 ```
 Guia-bases-datos-bioinformatica/
 ├── assets/                     # Recursos externos del repositorio
+├── bibliographic-database/     # Bases de datos bibliográficos
+│   ├── google-scholar/
+│   ├── pubmed/
+│   ├── scopus/
+│   └── WOS/
 ├── DNA-database/               # Bases de datos de secuencias de ADN
 │   ├── ensembl/
 │   ├── genbank/
@@ -40,10 +45,12 @@ Guia-bases-datos-bioinformatica/
 │   ├── arrayexpress/
 │   ├── expression-atlas/
 │   └── GEO/
-├── CONTRIBUTING.md             # Guía de contribución para colaboradores
+├── CONTRIBUTING.es.md          # Guía de contribución para colaboradores en español
+├── CONTRIBUTING.md             # Guía de contribución para colaboradores en inglés
 ├── LICENSE                     # Licencia
 ├── README.es.md                # README en español
-└── README.md                   # README en inglés
+├── README.md                   # README en inglés
+└── TEMPLATE.md                 # Plantilla para contribuciones
 
 ```
 

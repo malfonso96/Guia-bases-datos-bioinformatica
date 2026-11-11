@@ -24,6 +24,11 @@
 ```
 Guia-bases-datos-bioinformatica/
 ├── assets/                     # Repository external resources
+├── bibliographic-databases/    # Bibliographic databases
+│   ├── google-scholar/
+│   ├── pubmed/
+│   ├── scopus/
+│   └── WOS/
 ├── DNA-database/               # DNA sequence databases
 │   ├── ensembl/
 │   ├── genbank/
@@ -40,10 +45,12 @@ Guia-bases-datos-bioinformatica/
 │   ├── arrayexpress/
 │   ├── expression-atlas/
 │   └── GEO/
-├── CONTRIBUTING.md             # Contribution guide for collaborators
+├── CONTRIBUTING.es.md          # Contribution guide for collaborators in Spanish
+├── CONTRIBUTING.md             # Contribution guide for collaborators in English
 ├── LICENSE                     # License
 ├── README.es.md                # README in Spanish
-└── README.md                   # README in English
+├── README.md                   # README in English
+└── TEMPLATE.md                 # Template for contributions
 
 ```
 
