@@ -5,7 +5,7 @@
 
 ## 📌 What is it used for?
 
-Ensembl provides a genome browser that acts as a single point of access to annotated genomes for vertebrate and non vertebrate species.
+Ensembl provides a genome browser that acts as a single point of access to annotated genomes for vertebrate and non vertebrate species. It provides high‑quality, regularly updated genome annotations for humans and hundreds of other species. It integrates multiple layers of biological data making it possible for users to move seamlessly from genome-level views to detailed gene or protein annotations.
 
 ## 🗂️ Type of database
 
