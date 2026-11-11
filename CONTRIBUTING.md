@@ -2,7 +2,7 @@
 
 > **English** · [Español](CONTRIBUTING.es.md)
 
-Welcome to the bioinformatic database guide! In this document you will find all the information explaining how to participate in this proyect.
+Welcome to the bioinformatics database guide! In this document you will find all the information explaining how to participate in this proyect.
 
 ## 1. Design and content
 If you want to add a new database to the guide, you need to add the following information:
