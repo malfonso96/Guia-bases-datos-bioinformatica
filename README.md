@@ -1,2 +1,3 @@
-# Guia-bases-datos-bioinformatica
-Guía colaborativa de bases de datos bioinformáticas · UNIR
+# Guia-bases-datos-bioinformatica · _English_
+
+> **English** · [Español](README.es.md)
