@@ -11,7 +11,7 @@ Ensembl provides a genome browser that acts as a single point of access to annot
 
 | **By data origyn** | **By data review** |
 |---|---|
-| Secondary | Hibrid |
+| Secondary | Hybrid |
 
 Maintained jointly by the European Bioinformatics Institute (EMBL‑EBI) and the Wellcome Sanger Institute.
 
