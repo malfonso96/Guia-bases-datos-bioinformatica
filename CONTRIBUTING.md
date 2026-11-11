@@ -1,24 +1,29 @@
-# Guía de Contribución
-¡Bienvenido a la guía de bases de datos bioinformáticos! En este documento encontrarás toda la información para saber cómo participar en este proyecto.
+# 📝 Contributing guide
 
-## 1. Diseño y contenido
-Si quieres añadir una nueva base datos a la guía, la información que debes incluir es la siguiente:
-- Nombre de la base de datos.
-- El ámbito en el que se utiliza.
-- Qué tipo de base de datos es.
-- Breve resumen de su utilidad o característica por la que destaca.
+> **English** · [Español](CONTRIBUTING.es.md)
 
-*Para mantener un formato homogéneo y facilitar la incorporación de nuevas bases de datos al repositorio, se recomienda utilizar la siguiente plantilla como modelo para todas las contribuciones:* [PLANTILLA](./TEMPLATE.md)
+Welcome to the bioinformatics database guide! In this document you will find all the information explaining how to participate in this proyect.
 
-## 2. Sugerencias de funcionalidades
-Abre un issue con el nombre 'mejoras' en la que describas:
-- El problema observado
-- La propuesta de mejora
+## 1. Design and content
+If you want to add a new database to the guide, you need to add the following information:
+- Name of the database.
+- The area in which it is used.
+- What type of database it is.
+- Brief summary of its utility or defining features.
 
-## 3. Reportar errores
-Abre un issue con el nombre 'error' en la que describas:
-- Cómo has llegado al error
-- Lo que debería salir vs lo que sale
+*To maintain a consistent format and enable the incorporation of new databases into the repository, it is recomended to use the following template as a model for all contributions* [TEMPLATE](./TEMPLATE.md)
+
+## 2. Functionality suggestions
+Open an issue with the name 'improvements' describing:
+- The detected problem
+- The suggested improvement
+
+## 3. Error report
+Open an issue with the name 'error' describing:
+- How to get to the error
+- The expected result vs the actual result
 
 
-¡Gracias por tu colaboración!
+
+
+**Thank you for your collaboration!**
