@@ -3,13 +3,13 @@
 🔗 **Website:** https://www.ncbi.nlm.nih.gov/genbank/
 
 ## 📌 What is it used for?
-GenBank is a public **nucleotide sequences** database. It stores nucleotide sequences submitted by researchers worlwide and provides access to genetic information from a wide variety of organisms. Researchers use GenBank to identify genes, compare sequences between species, study genetic variation, perform phylogenetic analyses, and access reference sequence data for scientific studies. It also serves as a key resource for sequence similarity searches through integration with tools such as BLAST.  
+GenBank is a public **nucleotide sequences** database. It stores nucleotide sequences submitted by researchers worldwide and provides access to genetic information from a wide variety of organisms. Researchers use GenBank to identify genes, compare sequences between species, study genetic variation, perform phylogenetic analyses, and access reference sequence data for scientific studies. It also serves as a key resource for sequence similarity searches through integration with tools such as BLAST.  
 
 ## 🗂️ Type of database
 
 | By data origin | By data review |
 |---|---|
-| Primary | Hybrid |
+| Primary | Non-reviewed |
 
 Maintained by the **NCBI** 
 
