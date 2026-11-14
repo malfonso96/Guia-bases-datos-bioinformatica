@@ -9,7 +9,7 @@ GenBank is a public **nucleotide sequences** database. It stores nucleotide sequ
 
 | By data origin | By data review |
 |---|---|
-| Primary | Hybrid |
+| Primary | Not reviewed (repository) |
 
 Maintained by the **NCBI** 
 
